@@ -6,6 +6,7 @@
   "author": "clarkgh <demolisho@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "request": "^2.88.0"
   }
 }
